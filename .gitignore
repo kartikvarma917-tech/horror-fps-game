@@ -1,0 +1,46 @@
+# This is a gitignore file for Unity projects
+
+# Build results
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# User-specific files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Aa]ssets/AssetStoreTools*
+
+# Visual Studio / MonoDevelop generated files
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Rider
+.idea/
+*.sln
+*.csproj
+*.userprefs
+
+# Unity3D specific files
+*.pidb
+*.sln
+*.user
+*.userprefs
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.mdb
+*.stacktrace
+
+# Asset meta data
+*.asset.meta
+# Trailing slashes for folders
+[Aa]ssets/**/
+*.dll
+
+# Backup files
+*~
+*.tmp
